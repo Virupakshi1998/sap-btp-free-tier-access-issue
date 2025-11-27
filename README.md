@@ -1,0 +1,2 @@
+# sap-btp-free-tier-access-issue
+This repository contains detailed logs, screenshots, and steps of an SAP BTP Free Tier onboarding issue.   The goal is to help the SAP community diagnose the problem and assist learners who encounter similar errors while trying to access SAP Business Application Studio (BAS) using trial or free tier accounts.
