@@ -46,13 +46,10 @@ It has been 3 days with no response yet.
 # Request for Community Help
 If anyone has:
 
-Faced similar errors
-
-Solved DCPP_017
-
-Successfully enabled Free Tier using university email
-
-Has insights into BAS access limitations
+#### 1. Faced similar errors
+#### 2. Solved DCPP_017
+#### 3. Successfully enabled Free Tier using university email
+#### 4. Has insights into BAS access limitations
 
 Your guidance will truly help me continue my SAP learning journey.
 
