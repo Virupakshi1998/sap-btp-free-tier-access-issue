@@ -34,7 +34,26 @@ I used my University email (even though I already graduated).
 ## Issue 3: Account Creation Failure (DCPP_017 Error)
 After entering the required details using my university email, the process fails with:
 
+
 ![alt text](ErrorCode_DCPP_017.png)
 
 I retried several times—same error.
 
+# 🆘 Support Ticket
+I raised a support request through the SAP community.
+It has been 3 days with no response yet.
+
+# Request for Community Help
+If anyone has:
+
+Faced similar errors
+
+Solved DCPP_017
+
+Successfully enabled Free Tier using university email
+
+Has insights into BAS access limitations
+
+Your guidance will truly help me continue my SAP learning journey.
+
+Thank you in advance!
