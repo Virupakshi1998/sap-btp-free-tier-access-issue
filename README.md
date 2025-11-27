@@ -1,9 +1,9 @@
 # sap-btp-free-tier-access-issue
 This repository contains detailed logs, screenshots, and steps of an SAP BTP Free Tier onboarding issue.   The goal is to help the SAP community diagnose the problem and assist learners who encounter similar errors while trying to access SAP Business Application Studio (BAS) using trial or free tier accounts.
 
-## 🔧 Issue Summary
+# 🔧 Issue Summary
 
-#### Issue 1: BAS Access Denied in Trial Account
+## Issue 1: BAS Access Denied in Trial Account
 
 When navigating:
 SAP BTP Cockpit → Services → Instances and Subscriptions → SAP Business Application Studio
@@ -22,7 +22,7 @@ I followed SAP’s official page:
 Get an Account on SAP BTP to Try Out Free Tier Service Plans
 
 #### But two new issues appeared:
-#### Issue 2: Personal Email Not Allowed for Free Tier
+## Issue 2: Personal Email Not Allowed for Free Tier
 When attempting to convert/join Free Tier:
 
 To access SAP Free Tier, personal email domains are not allowed.  
@@ -31,7 +31,10 @@ Please use a company or university email.
 
 I used my University email (even though I already graduated).
 
-#### Issue 3: Account Creation Failure (DCPP_017 Error)
+## Issue 3: Account Creation Failure (DCPP_017 Error)
 After entering the required details using my university email, the process fails with:
 
-![alt text](SAP_BAS_AccessDenied.png)
+![alt text](ErrorCode_DCPP_017.png)
+
+I retried several times—same error.
+
