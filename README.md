@@ -13,6 +13,25 @@ SAP BTP Cockpit → Services → Instances and Subscriptions → SAP Business Ap
 Access Denied  
 You do not have the necessary roles to access SAP Business Application Studio.
 
-![alt text]SAP_BAS_AccessDenied(.png)
+![alt text](SAP_BAS_AccessDenied.png)
+
+Multiple SAP community posts suggest that **BAS access is restricted in Trial**, and that switching to **Free Tier** resolves the problem.
+
+#### What I Tried Next — SAP Free Tier Setup
+I followed SAP’s official page:
+Get an Account on SAP BTP to Try Out Free Tier Service Plans
+
+#### But two new issues appeared:
+#### Issue 2: Personal Email Not Allowed for Free Tier
+When attempting to convert/join Free Tier:
+
+To access SAP Free Tier, personal email domains are not allowed.  
+Please use a company or university email.
 
 
+I used my University email (even though I already graduated).
+
+#### Issue 3: Account Creation Failure (DCPP_017 Error)
+After entering the required details using my university email, the process fails with:
+
+![alt text](SAP_BAS_AccessDenied.png)
