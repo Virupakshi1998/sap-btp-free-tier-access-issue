@@ -13,4 +13,6 @@ SAP BTP Cockpit → Services → Instances and Subscriptions → SAP Business Ap
 Access Denied  
 You do not have the necessary roles to access SAP Business Application Studio.
 
+![alt text]SAP_BAS_AccessDenied(.png)
+
 
