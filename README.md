@@ -1,7 +1,9 @@
 # sap-btp-free-tier-access-issue
+I’m reaching out to the SAP Community for help, as I’m currently blocked in my SAP BTP learning journey. I’m facing issues like the DCPP_017 error, difficulty enabling the Free Tier with my university email, and BAS access denied. If anyone has faced similar problems or knows a workaround, your support would mean a lot. Kindly take a moment to review the issue summary I’ve included below. Thank you!
+
 This repository contains detailed logs, screenshots, and steps of an SAP BTP Free Tier onboarding issue.   The goal is to help the SAP community diagnose the problem and assist learners who encounter similar errors while trying to access SAP Business Application Studio (BAS) using trial or free tier accounts.
 
-# 🔧 Issue Summary
+#  Issue Summary
 
 ## Issue 1: BAS Access Denied in Trial Account
 
@@ -39,7 +41,7 @@ After entering the required details using my university email, the process fails
 
 I retried several times—same error.
 
-# 🆘 Support Ticket
+#  Support Ticket
 I raised a support request through the SAP community.
 It has been 3 days with no response yet.
 
